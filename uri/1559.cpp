@@ -21,7 +21,7 @@ int main()
 					end = true;
 			}
 
-		if (end){
+		if (end) {
 			cout << "NONE" << endl;
 			continue;
 		}
